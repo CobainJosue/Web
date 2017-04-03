@@ -1,0 +1,1 @@
+./prebeshell.sh: línea 32: salir: orden no encontrada
